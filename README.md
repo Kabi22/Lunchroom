@@ -1,7 +1,8 @@
 # Lunchroom
 
 Casual directional audio
-A project sponsored by Google's GC Program
+
+A project sponsored by Google Cloud
 
 ## Our Objective
 
